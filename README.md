@@ -3,12 +3,7 @@
 <html>
   <body>
     <h1>اسلایدر جاوااسکریپتی</h1>
-    <iframe
-      src="index.html"
-      width="100%"
-      height="544px"
-      style="border: none; overflow: hidden"
-    ></iframe>
+<img src="https://waregint.sirv.com/github%20photos/Screenshot%20from%202022-04-16%2015-00-33.png">
     |
     <a
       href="https://clarotm.ir"
