@@ -1,7 +1,14 @@
 # slider-button-js
 
-<h1> اسلایدر جاوااسکریپتی</h1>
-    <iframe src="index.html" width="100%" height="544px" style="border:none; overflow: hidden;"></iframe>
+<html>
+  <body>
+    <h1>اسلایدر جاوااسکریپتی</h1>
+    <iframe
+      src="index.html"
+      width="100%"
+      height="544px"
+      style="border: none; overflow: hidden"
+    ></iframe>
     |
     <a
       href="https://clarotm.ir"
@@ -40,7 +47,7 @@
       Amirreza Heydari</a
     >
     |
-<a
+    <a
       href="https://www.instagram.com/amirrezaheydariinsta/"
       style="
         text-decoration: none;
@@ -53,3 +60,5 @@
       Instagram Page Me!</a
     >
     |
+  </body>
+</html>
